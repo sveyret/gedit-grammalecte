@@ -1,0 +1,82 @@
+# French translations for pluma-grammalecte package.
+# Copyright (C) 2017 Stéphane Veyret
+# This file is distributed under the same license as the pluma-grammalecte package.
+# Automatically generated, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: pluma-grammalecte 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-20 20:24+0100\n"
+"PO-Revision-Date: 2021-03-20 20:24+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: plugin/application.py:50
+msgid "Configure _Grammalecte..."
+msgstr "Configurer _Grammalecte..."
+
+#: plugin/application.py:52
+msgid "Linguistic _Autocheck"
+msgstr "Vérification linguistique _automatique"
+
+#: plugin/config_dlg.py:129
+msgid "Configuration"
+msgstr "Configuration"
+
+#: plugin/config_dlg.py:143
+msgid "Internal error"
+msgstr "Erreur interne"
+
+#: plugin/config_dlg.py:144
+msgid "Clear all file specific settings"
+msgstr "Effacer la configuration spécifique au fichier"
+
+#: plugin/config.py:411
+msgid "Error: configuration file “{}” could not be saved"
+msgstr "Erreur : le fichier de configuration « {} » n'a pas pu être enregistré"
+
+#: plugin/config.py:422
+msgid "Error: configuration could not be saved"
+msgstr "Erreur : la configuration n'a pas pu être enregistrée"
+
+#: plugin/error.py:96
+msgid "Unknown word."
+msgstr "Mot inconnu."
+
+#: plugin/popupmenu.py:75
+msgid "Suggestions"
+msgstr "Suggestions"
+
+#: plugin/popupmenu.py:104
+msgid "(no suggestions)"
+msgstr "(pas de suggestions)"
+
+#: plugin/popupmenu.py:116
+msgid "More"
+msgstr "Plus"
+
+#: plugin/popupmenu.py:143
+msgid "Ignore rule"
+msgstr "Ignorer la règle"
+
+#: plugin/popupmenu.py:151
+msgid "Ignore error"
+msgstr "Ignorer l’erreur"
+
+#: plugin/popupmenu.py:158
+msgid "Add"
+msgstr "Ajouter"
+
+#: plugin/popupmenu.py:171
+msgid "See the rule"
+msgstr "Voir la règle"
+
+#: plugin/window.py:86
+msgid "Linguistic checking in progress..."
+msgstr "Vérification linguistique en cours..."

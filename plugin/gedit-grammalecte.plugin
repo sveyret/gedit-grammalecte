@@ -1,0 +1,13 @@
+[Plugin]
+Loader=python3
+Module=gedit-grammalecte
+IAge=3
+
+Name=Grammalecte
+Name[fr]=Grammalecte
+Description=French language grammar checker.
+Description[fr]=Correcteur grammatical pour le français.
+Icon=gtk-spell-check
+
+Authors=Stéphane Veyret
+Copyright=GPLv3
