@@ -38,7 +38,7 @@ Vous devez avoir reçu une copie de la GNU General Public License en même temps
 
 # Aperçu
 
-![Infobulle](https://user-images.githubusercontent.com/6187210/32458521-fd71a990-c32c-11e7-8b2b-43764d608480.png)
+![Infobulle](https://user-images.githubusercontent.com/6187210/111883832-fceac280-89bd-11eb-86d2-4ab98a61fd44.png)
 
 # Pré-requis
 
